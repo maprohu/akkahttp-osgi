@@ -1,0 +1,4 @@
+features:addurl mvn:com.github.maprohu/akkahttp-osgi-feature/2.0-SNAPSHOT/xml/features
+
+features:install akkahttp-osgi-feature
+
