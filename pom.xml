@@ -17,4 +17,11 @@
         <akka.http.version>2.0-M2</akka.http.version>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>devops</id>
+            <url>https://archiva-maprohu.rhcloud.com/repository/internal/</url>
+        </repository>
+    </distributionManagement>
+
 </project>
