@@ -10,6 +10,7 @@
 
     <packaging>pom</packaging>
     <modules>
+        <module>repack</module>
         <module>deps</module>
         <module>feature</module>
     </modules>
